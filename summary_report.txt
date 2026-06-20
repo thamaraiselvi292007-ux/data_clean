@@ -1,0 +1,13 @@
+DATA CLEANING & REPORTING AUTOMATION
+===================================
+
+Original Rows: 6
+Duplicates Removed: 0
+Final Rows: 6
+
+SALES SUMMARY
+-------------
+Total Sales: 37200.00
+Average Sales: 6200.00
+Maximum Sales: 8000.00
+Minimum Sales: 5000.00
